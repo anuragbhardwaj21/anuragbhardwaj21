@@ -4,7 +4,7 @@ Greetings! I go by **Anurag**, an aspiring full-stack web developer deeply enthu
 
 
 ## 🔭 Current Projects
-- [**Anurag's Portfolio**](https://github.com/anuragbhardwaj21/anuragbhardwaj21.github.io): Portfolio website with crazy and modern animations
+
 - [**Specialized cycle app**](https://github.com/ProActive44/specialized-bike-app): A online cycle store, where you can find all the types of modern bikes.
 - [**HealthCare 24/7**](https://github.com/anuragbhardwaj21/Healthcare-24-7): Online Medicine Store with all essential medicine 24*7.
 - [**Skinstore**](https://github.com/anuragbhardwaj21/Skinstore): A clone of world's leading cosmetic ecommerce shopping site. 
