@@ -10,16 +10,17 @@ Greetings! I go by **Anurag**, an aspiring full-stack web developer deeply enthu
 - [**Skinstore**](https://github.com/anuragbhardwaj21/Skinstore): A clone of world's leading cosmetic ecommerce shopping site. 
 
 
-## 👯 Looking to Collaborate
-
-I'm constantly ready to engage in collaborations for intriguing projects. Should you possess an idea or require assistance with anything, don't hesitate to get in touch!
-
-
 ## 📫 How to Reach Me
 
 - Email: anurag.bhardwaj_cs18@gla.ac.in
 - Portfolio: [https://Anuragbhardwaj21.github.io/](https://Anuragbhardwaj21.github.io/)
 - LinkedIn: [Anurag Bhardwaj](https://www.linkedin.com/in/anurag-bhardwaj-2361am/)
+
+
+## 👯 Looking to Collaborate
+
+I'm constantly ready to engage in collaborations for intriguing projects. Should you possess an idea or require assistance with anything, don't hesitate to get in touch!
+
 
 
 ## 📚 My Favorite Resources
