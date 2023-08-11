@@ -13,7 +13,7 @@ Greetings! I go by **Anurag**, an aspiring full-stack web developer deeply enthu
 ## 📫 How to Reach Me
 
 - Email: anurag.bhardwaj_cs18@gla.ac.in
-- Portfolio: [https://Anuragbhardwaj21.github.io/](https://Anuragbhardwaj21.github.io/)
+- Portfolio Link: [https://Anuragbhardwaj21.github.io/](https://Anuragbhardwaj21.github.io/)
 - LinkedIn: [Anurag Bhardwaj](https://www.linkedin.com/in/anurag-bhardwaj-2361am/)
 
 
