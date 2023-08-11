@@ -18,7 +18,7 @@ I'm constantly ready to engage in collaborations for intriguing projects. Should
 ## 📫 How to Reach Me
 
 - Email: anurag.bhardwaj_cs18@gla.ac.in
-- Portfolio: [https://anuragbhardwaj21.github.io/](https://anuragbhardwaj21.github.io/)
+- Portfolio: [https://Anuragbhardwaj21.github.io/](https://Anuragbhardwaj21.github.io/)
 - LinkedIn: [Anurag Bhardwaj](https://www.linkedin.com/in/anurag-bhardwaj-2361am/)
 
 
