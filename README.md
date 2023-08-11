@@ -2,18 +2,19 @@
 
 Greetings! I go by **Anurag**, an aspiring full-stack web developer deeply enthusiastic about constructing web applications. Delighted to have you visit my GitHub profile! Within these virtual walls, you'll discover a collection of my projects and contributions. Please feel at liberty to delve in, and don't hesitate to initiate a connection. By the way, I'm presently engaged at Wipro Noida, honing my skills.
 
-## 📫 How to Reach Me
-
-- Email: anurag.bhardwaj_cs18@gla.ac.in
-- [Portfolio Link](https://anuragbhardwaj21.github.io)
-- LinkedIn: [Anurag Bhardwaj](https://www.linkedin.com/in/anurag-bhardwaj-2361am/)
-
 
 ## 🔭 Current Projects
 - [**Anurag's Portfolio**](https://github.com/anuragbhardwaj21/anuragbhardwaj21.github.io): Portfolio website with crazy and modern animations
 - [**Specialized cycle app**](https://github.com/ProActive44/specialized-bike-app): A online cycle store, where you can find all the types of modern bikes.
 - [**HealthCare 24/7**](https://github.com/anuragbhardwaj21/Healthcare-24-7): Online Medicine Store with all essential medicine 24*7.
 - [**Skinstore**](https://github.com/anuragbhardwaj21/Skinstore): A clone of world's leading cosmetic ecommerce shopping site. 
+
+
+## 📫 How to Reach Me
+
+- Email: anurag.bhardwaj_cs18@gla.ac.in
+- [Portfolio Link](https://anuragbhardwaj21.github.io)
+- LinkedIn: [Anurag Bhardwaj](https://www.linkedin.com/in/anurag-bhardwaj-2361am/)
 
 
 ## 👯 Looking to Collaborate
